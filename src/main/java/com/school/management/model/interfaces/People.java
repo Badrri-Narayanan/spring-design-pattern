@@ -1,4 +1,4 @@
-package com.school.management.model;
+package com.school.management.model.interfaces;
 
 import java.util.List;
 

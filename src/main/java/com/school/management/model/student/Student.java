@@ -1,8 +1,9 @@
-package com.school.management.model;
+package com.school.management.model.student;
 
 import java.sql.Date;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.school.management.model.interfaces.Person;
 
 public class Student implements Person {
 	@JsonProperty("name")
